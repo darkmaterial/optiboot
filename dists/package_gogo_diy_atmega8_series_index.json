@@ -20,10 +20,10 @@
   "help": {
       "online": "https://github.com/sleemanj/optiboot/dists/"
   },
-  "url": "https://raw.githubusercontent.com/sleemanj/optiboot/master/dists/board_manager_packages/diy_atmega8_series_2018_9_9.zip",  
+  "url": "https://github.com/darkmaterial/optiboot/blob/master/dists/board_manager_packages/diy_atmega8_series_2018_9_9.zip",  
   "archiveFileName": "diy_atmega8_series_2018_9_9.zip",
   
-  "checksum": "SHA-256:3f4ecb59fd4eb6f21980a7e1da91422dcc30889416b43d69fe4a48986311a1ad",
+  "checksum": "SHA-256:f27f1a75ca49abe4d3e0f4a70329c892e5089741a7c44a63ceb26baf15788590",
   "size": "1271719",
 
   "boards": [
