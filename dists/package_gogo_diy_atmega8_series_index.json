@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "diy_atmega8_series",
+      "name": "diy_atmega88_series",
       
       "maintainer": "James Sleeman,dz, http://sparks.gogo.co.nz/",
       "websiteURL": "https://github.com/sleemanj/optiboot/blob/master/dists/README.md",
