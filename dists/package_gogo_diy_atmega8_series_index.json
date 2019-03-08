@@ -22,9 +22,7 @@
   },
   "url": "https://github.com/darkmaterial/optiboot/blob/master/dists/board_manager_packages/diy_atmega8_series_2018_9_9.zip",  
   "archiveFileName": "diy_atmega8_series_2018_9_9.zip",
-  
  
-  "size": "1271719",
 
   "boards": [
     {"name": "ATmega8"},
