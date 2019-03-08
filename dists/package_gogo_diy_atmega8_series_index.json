@@ -3,7 +3,7 @@
     {
       "name": "diy_atmega8_series",
       
-      "maintainer": "James Sleeman, http://sparks.gogo.co.nz/",
+      "maintainer": "James Sleeman,dz, http://sparks.gogo.co.nz/",
       "websiteURL": "https://github.com/sleemanj/optiboot/blob/master/dists/README.md",
       "email": "sparks@gogo.co.nz/daniel@zollitsch.net",
       "help": {
